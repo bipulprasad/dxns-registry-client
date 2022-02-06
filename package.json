@@ -17,7 +17,9 @@
     "@cosmjs/proto-signing": "^0.26.5",
     "@cosmjs/stargate": "^0.26.5",
     "@cosmjs/tendermint-rpc": "^0.26.5",
-    "google-protobuf": "^3.19.1"
+    "google-protobuf": "^3.19.1",
+    "graphql": "^16.3.0",
+    "graphql-request": "^4.0.0"
   },
   "devDependencies": {
     "ts-proto": "^1.87.1"
